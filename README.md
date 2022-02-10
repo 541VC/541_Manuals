@@ -6,7 +6,9 @@
 
 # Our Ethos
 
-541 Ventures envisions to be an iconic investor for Asian founders in high-tech.  To pursue the vision, we intends to be the first investor on your cap table and commit our resources to become a highly value-adding capital for your growth.
+541 Ventures envisions to be an iconic investor for Asian founders in high-tech.
+
+In pursuit of this vision, we intends to be the first investor on your cap table and commit our resources to become a highly value-adding capital for your growth.
 
 <br/>
 
