@@ -1,4 +1,4 @@
-* What do you mean by high-tech?
+## What do you mean by high-tech?
 
 The dictionary definition of a high-tech is a proprietary technology that is protected by applicable laws.
 
