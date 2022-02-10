@@ -1,3 +1,5 @@
 # Our Ethos
 
-541 Ventures is based in Los Angeles, and we envision to be an iconic investor especially for Asian founders in high-tech.
+541 Ventures envisions to be an iconic investor especially for Asian founders in high-tech.
+
+## What do you look for in a startup?
