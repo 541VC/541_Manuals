@@ -12,7 +12,7 @@ At 541, this means we get in it with the founders as early as possible and work 
 
 Therefore we absolutely prefer to lead the earliest financing of the company and commit our resources to catalyze their growth.
 
-Read [this](https://github.com/541VC/541/blob/main/Our_Thesis) for more on what we mean by high-tech, what we look for in founders and how we help catalyze their growth and engineer the outcome.
+Read [this](https://github.com/541VC/541/blob/main/Our_Thesis.md) for more on what we mean by high-tech, what we look for in founders and how we help catalyze their growth and engineer the outcome.
 
 <br/>
 
