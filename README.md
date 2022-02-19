@@ -19,7 +19,7 @@ Read [this](https://github.com/541VC/541/blob/main/Our_Thesis.md) for more on wh
 ## Why is 541 Ventures on Github?
 
 At 541, we doesn't play defence; we always play offence and we constantly seek better ways to be and stay close to deeply technical founders with disruptive visions.
-In pursuing such founders that are potentially starting an industry, we have decided that Github is the best place for us to be to play offence.
+In pursuing such founders that are potentially starting an industry, we have decided that Github is the best place for us to be and play offence.
 
 <br/>
 
