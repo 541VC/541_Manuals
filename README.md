@@ -8,7 +8,7 @@ Based in Los Angeles, California, 541 Ventures backs extraordinary frontier-tech
 
 541 Ventures believes in engineering the outcome.
 
-At 541, this means we get in it with the founders as early as possible and get our hands dirty with them as if we're a co-founder to the company to really guide them to grow as rapidly as possible to the growth stage and beyond.
+At 541, this means we get in it with the founders as early as possible and get our hands dirty along with them as if we're a co-founder to the company, in order to really help them grow as rapidly as possible to the growth stage and beyond.
 
 For this, we absolutely prefer to lead the earliest financing round of the company and commit our resources to catalyze their growth.
 
@@ -25,5 +25,5 @@ In pursuing such founders that are potentially starting an industry, we have dec
 
 ## How to reach out to us?
 
-We love meeting founders and hearing their exhilerating ideas! Too bad we just can't do it as much as we'd love to, because we - just like anyone else, only have 24 hours a day and therefore we have to be very cautious about how we allocate our bandwidth.
-That's why we (investors) look for signals that tells us to give that someone or something a priority and get a meeting with her/him (badges from prestigeous accelerators or a great pedigree are nothing but such signals). And nothing else than an intro from a trusted friend is a stronger signal that makes us move faster. For this, while we read the cold emails (like ALL of them), we strongly encourages you to find ways to get a warm intro to our Managing Partner [Eunse](https://linkedin.com/in/eunse).  Also, read this on how to get intros like a boss [here](http://eun5e.com/2022/02/how-to-get-intros-like-a-boss/).
+We love meeting founders and hearing their exhilerating ideas! Too bad we just can't do it as much as we'd love to, because we - just like anyone else, only have 24 hours a day and therefore we have to be very wise about how we allocate our bandwidth, as writing a check is only a portion of our bandwith (we're in it with multiple companies).
+That's why we (investors) look for signals that tells us to give that someone or something a priority and get a meeting with her/him (badges from prestigeous accelerators or a great pedigree are nothing but such signals). And nothing else than an intro from a trusted friend is a stronger signal that makes us move faster. Therefore, while we read the cold emails (like ALL of them), we strongly encourage you to find ways to get an intro to our Managing Partner [Eunse](https://linkedin.com/in/eunse).  Also, read this on how to get intros like a boss [here](http://eun5e.com/2022/02/how-to-get-intros-like-a-boss/).
