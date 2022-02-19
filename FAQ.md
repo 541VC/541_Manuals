@@ -15,7 +15,7 @@ Yes, we'd love to stay close to the companies so we can really be hands-on. On t
 ### Why LA?
 
 For us, what better place chould there be to be an iconinc investor for Asian founders in high-tech?
-LA has always been the major intersection between the US and Asia (and many other parts of the world).
+LA has always been a significant intersection between the US and Asia (and many other parts of the world).
 Naturally, We have the iconic Koreatown (what's up, K-Town?), Little Tokyo, Chinatown, Thai Town, Little India and even Little Bangladesh!
 LA is even where the largest number of Korean population resides outside Korea.
 
