@@ -1,6 +1,6 @@
 # What is 541 Ventures?
 
-Based in Los Angeles, California, 541 Ventures backs extraordinary frontier-tech and artificial intelligence companies with Asian founders to start an industry and become an iconic company.
+541 Ventures is a Los Angeles-based VC to back extraordinary frontier-tech and artificial intelligence companies with Asian founders to start an industry and become an iconic company.
 
 <br/>
 
