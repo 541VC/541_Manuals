@@ -8,11 +8,11 @@ Based in Los Angeles, California, 541 Ventures backs extraordinary frontier-tech
 
 541 Ventures believes in engineering the outcome.
 
-At 541, this means we get in it with the founders as early as possible and work as if we're a co-founder to the company we're excited about to really guide them to grow as rapidly as possible to the growth stage and beyond.
+At 541, this means we get in it with the founders as early as possible and get our hands dirty with them as if we're a co-founder to the company to really guide them to grow as rapidly as possible to the growth stage and beyond.
 
-Therefore we absolutely prefer to lead the earliest financing of the company and commit our resources to catalyze their growth.
+For this, we absolutely prefer to lead the earliest financing of the company and commit our resources to catalyze their growth.
 
-Read [this](https://github.com/541VC/541/blob/main/Our_Thesis.md) for more on what we mean by high-tech, what we look for in founders and how we help catalyze their growth and engineer the outcome.
+Read [this](https://github.com/541VC/541/blob/main/Our_Thesis.md) for more on what we mean by high-tech and what we look for in founders.
 
 <br/>
 
