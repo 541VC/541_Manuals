@@ -1,10 +1,6 @@
-## What does 541 mean by high-tech?
+## What does 541 mean by frontier tech?
 
-The dictionary definition of a high-tech is a proprietary technology that is protected by applicable laws.
-
-We take a few steps further in our definition of high-tech.
-
-541 Ventures defines high-tech as a fundamental technology being developed for the future that has not yet arrived, therefore no one else but you are building.
+541 Ventures defines frontier tech as a fundamental technology being developed for the future that has not yet arrived, therefore no one else but you are building.
 At 541, we put a very high value on the "fundamental" side of such technology so that the technology can be (and has to be) adopted and used by everyone when the future finally arrives.
 
 
