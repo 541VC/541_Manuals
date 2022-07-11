@@ -7,7 +7,7 @@
 # Our Ethos
 
 541 Ventures believes in engineering the outcome.
-At 541, this means we hold our nose up and get in it with the founders as from their earliest days to support them to grow as rapidly as possible to the growth stage and beyond.
+At 541, this means we hold our nose up and get in it with the founders as early as their Day 1, and support them grow as rapidly as possible to their success.
 For this, we're absolutely fearless to back the companies we love even when no one else does, and commit our resources to catalyze their growth.
 Read [this](https://github.com/541VC/541/blob/main/Our_Thesis.md) for more on what we mean by frontier tech and what we look for in founders.
 
