@@ -2,7 +2,8 @@
 
 541 Ventures defines frontier tech as a fundamental technology being developed for the future that has not yet arrived, therefore no one else but you are building.
 At 541, we put a very high value on the "fundamental" side of such technology so that the technology can be (and has to be) adopted and used by everyone when the future finally arrives.
-
+<br><br>
+[Please read this blog post](http://eun5e.com/2022/07/541-ventures-thesis/) for a more detailed articulation of our definition and thesis.
 
 </br>
 
@@ -22,4 +23,3 @@ On the other hand, the rarer type of founders 541 admires would come to us and s
 If you're a time-traveller who's capable of drawing you own axis, we believe you can potentially start an industry. And if both of us are excited about the new industry you're starting, we'll be absolutely fearless and even proud to back you, even before anyone else.
 
 </br>
-
