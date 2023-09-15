@@ -75,7 +75,7 @@ Seed
 <br/>
 
 ## How much are we raising?
-$500K USD
+$250K USD
 <br/>
 
 ## At what valuation are we raising the current round?
