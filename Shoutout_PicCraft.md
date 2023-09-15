@@ -10,7 +10,7 @@ AI art generation is advancing and growing very fast this year, but there's a bi
 
 The major AI art platforms require good English. Writing prompts in languages other than English produces bad or non-accurate result, because the platforms don't have the resources and time to re-train the engine. Plus, most of the UIs are in English and very hard to use with a lot of configurations. Many people just simply gave up after their first try.
 
-PicCraft solves the problem by fine-tuning text-to-image AI models for non-english languages, resulting in 2.5x better prompt accuracy and 1.3x faster generation speed. With carefully designed and localized UIUX, we've turned complicated configurations and setups into a very simple but powerful app.
+PicCraft solves the problem by fine-tuning text-to-image AI models for non-english languages, resulting in 2.5x better prompt accuracy and 1.9x faster generation speed. With carefully designed and localized UIUX, we've turned complicated configurations and setups into a very simple but powerful app.
 
 <br/>
 
