@@ -100,7 +100,7 @@ Artificial Intelligence and Artificial Intelligence Infrastructure
 <br/>
 
 ## Our Pitch Deck URL
-[Download here](https://drive.google.com/file/d/1hRssGkF_Jtg2lKSipEswGmsKI06xo-uI/view?usp=sharing)
+[Download here](https://drive.google.com/file/d/150vbJIhxNsigoH80I5u09sTBVuw3gLSi/view?usp=share_link)
 <br/>
 
 ## Contact
