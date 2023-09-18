@@ -28,12 +28,13 @@ We've been testing our business models. As of August 2023 PicCraft has generated
 
 <br/>
 
-## What's our estimated market size?
+## What's our potential revenue in the future?
 
 The most successful AI art app Wombo Dream in the English language market has 6M MAU.
-Our 2K MAU generates $500 USD monthly.
-Assuming at their scale, the Service Obtainable Market (SOM) can be estimated to:
-$500 * (6M/2K) * 12 = $18M
+Our 2K users are generating $6K USD annually.
+Mandarin Chinese speakers are 2.4x the English speakers.
+Assuming at their scale, the potential revenue in the Mandarin Chinese can be estimated to:
+($6K/2K) * 6M * 2.4 = $43M
 
 <br/>
 
@@ -75,7 +76,7 @@ Seed
 <br/>
 
 ## How much are we raising?
-$250K USD
+$200K USD
 <br/>
 
 ## At what valuation are we raising the current round?
