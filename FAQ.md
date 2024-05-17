@@ -35,7 +35,7 @@ Naturally, we have the iconic Koreatown (what's up, K-Town?), Little Tokyo, Chin
 LA is even where the largest number of Korean population resides outside Korea.
 And of course, food is GREAT!
 
-For fouunders, the fact that LA has such diverse and vibrant munticultural universe of communities allows a softer landing - regardless of where they're coming from, and makes their initial days so much easier so they can entirely focusn on building the foundation for an increadible company.
+For fouunders, the fact that LA has such diverse and vibrant munticultural universe of communities allows a softer landing - regardless of where they're coming from, and makes their initial days so much easier so they can entirely focus on building the right foundation for an increadible company.
 
 For companies, in addition to all of those cool things above, LA is a great place as we produce the largest number of engineers (per our fellow LA-based investor [Mark Suster](https://techcrunch.com/2014/10/08/theres-something-going-on-in-l-a/#:~:text=You%20may%20also%20be%20surprised,USC%2C%20UCLA%20and%20Harvey%20Mudd.)),
 and we have a great tech ecosystem with the some of the world's most innovative companies like SpaceX, NASA Jet Propulsion Lab, Snap and so many incredible startups!
